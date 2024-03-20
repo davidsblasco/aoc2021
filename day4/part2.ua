@@ -1,4 +1,4 @@
-﻿. &fras "input.txt"
+. &fras "input.txt"
 ⋕regex "\\d+"
 °□⊏0♭ regex ".*,\\d+" :
 ⧻ ⋕⊜□≠@, .
